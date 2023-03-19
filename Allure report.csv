@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 19 11:11:52 WAT 2023","Sun Mar 19 11:11:53 WAT 2023","771","Default Suite","FacebookTest","SeleniumWebSignupTest","SeleniumWebSignupTest","logout","logout",""
+"broken","Sun Mar 19 10:29:38 WAT 2023","Sun Mar 19 10:29:38 WAT 2023","28","Default Suite","FacebookTest","SeleniumWebSignupTest","SeleniumWebSignupTest","verifyItem","verifyItem",""
+"broken","Sun Mar 19 10:47:11 WAT 2023","Sun Mar 19 10:47:11 WAT 2023","32","Default Suite","FacebookTest","SeleniumWebSignupTest","SeleniumWebSignupTest","clickuser1Item","clickuser1Item",""
+"passed","Sun Mar 19 11:11:40 WAT 2023","Sun Mar 19 11:11:46 WAT 2023","6319","Default Suite","FacebookTest","SeleniumWebSignupTest","SeleniumWebSignupTest","negativeSignup","negativeSignup",""
+"passed","Sun Mar 19 11:11:46 WAT 2023","Sun Mar 19 11:11:52 WAT 2023","5749","Default Suite","FacebookTest","SeleniumWebSignupTest","SeleniumWebSignupTest","positiveSignup","positiveSignup",""
+"broken","Sun Mar 19 10:55:52 WAT 2023","Sun Mar 19 10:55:52 WAT 2023","37","Default Suite","FacebookTest","SeleniumWebSignupTest","SeleniumWebSignupTest","click","click",""
